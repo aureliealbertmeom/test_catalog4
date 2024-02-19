@@ -1,3 +1,3 @@
 # Index page
 
-Index appears here
+The list of configurations are [here](configurations)
